@@ -1,3 +1,7 @@
+---
+title: Joanna Rousseau Website
+---
+
 # About Me
 I am a passionate self-taught developer looking for a career change from HR to
 Software Development. Always eager to acquire new skills, I bring a can-do
