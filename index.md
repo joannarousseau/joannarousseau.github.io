@@ -1,5 +1,5 @@
 ---
-title: Joanna Rousseau Website
+title: Joanna Rousseau
 ---
 
 # About Me
