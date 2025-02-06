@@ -4,7 +4,7 @@ title: Joanna Rousseau
 
 # About Me
 Rf Embedded Software Engineer, looking to broaden my set of skills and 
-hands on experience after having worked at RaspberryPi and u-Blox. 
+hands on experience. After 3 years of working for both RaspberryPi and u-Blox, I am now ready for a new challenge. 
 
 I am a passionate self-taught developer (course from Harvard university) who
 is always eager to learn new skills. I bring a can-do attitude and extensive 
